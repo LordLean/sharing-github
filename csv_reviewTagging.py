@@ -10,7 +10,6 @@ from nltk.corpus import wordnet as wn
 from nltk.corpus import wordnet_ic as wn_ic
 
 
-
 df = pd.read_excel(r'/Users/alex/Downloads/test.xlsx', sheetName = "Coding") #insert xlsx
 creative = df["Creative"].tolist()
 comment = df["Comment"].tolist()
@@ -52,7 +51,6 @@ def gimme_word(tagged_word,tagname):
 #gimme_word("boring", "NEG-boring")
 
 
-
 import xlwt
 from tempfile import TemporaryFile
 book = xlwt.Workbook()
@@ -67,8 +65,6 @@ def convert_to_csv(tagged_word,tagname):
     name = tagname + ".xls"
     book.save(name)
     book.save(TemporaryFile())
-
-
 
 
 convert_to_csv("boring", "NEG-test")
