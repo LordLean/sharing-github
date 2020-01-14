@@ -1,6 +1,4 @@
 import sys
-#sys.path.append(r'\\ad.susx.ac.uk\ITS\TeachingResources\Departments\Informatics\LanguageEngineering\resources')
-sys.path.append(r'/Users/alex/resources') 
 import nltk
 from pandas import * 
 import pandas as pd
