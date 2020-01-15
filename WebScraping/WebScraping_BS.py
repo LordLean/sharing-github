@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import requests 
 from bs4 import BeautifulSoup 
 import lxml 
@@ -23,9 +17,6 @@ for match in matches:
 for item in formatted:
     print(item)
     print(" ")
-
-
-# In[54]:
 
 
 reduced = []
