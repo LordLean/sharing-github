@@ -65,5 +65,5 @@ def convert_to_csv(tagged_word,tagname):
     book.save(TemporaryFile())
 
 
-convert_to_csv("boring", "NEG-test")
+convert_to_csv("boring", "NEG-boring")
 
