@@ -1,22 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # NLE Assessed Coursework 3: Question 3
-# 
-# For this assessment, you are expected to complete and submit 4 notebook files.  There is 1 notebook file for each question (to speed up load times).  This is notebook 3 out of 4.
-# 
-# Marking guidelines are provided as a separate document.
-# 
-# In order to provide unique datasets for analysis by different students, you must enter your candidate number in the following cell.
-
-# In[1]:
-
-
-candidateno=183708 #this MUST be updated to your candidate number so that you get a unique data sample
-
-
-# In[2]:
-
 
 #preliminary imports
 import sys
@@ -44,10 +28,7 @@ import operator
 # 
 # The code below will run the SpaCy system on the text from Persuasion by Jane Austen.  `mysample` contains a 50% sample which is unique to your candidate number.
 
-# In[3]:
 
-
-#Do NOT change the code in this cell.
 
 #preparing corpus
 
