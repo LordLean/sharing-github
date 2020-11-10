@@ -1,0 +1,31 @@
+The problem:
+Consider the following problem, which is an adaptation of the famous Einstein / Zebra / Fish puzzle.
+There are five identical houses lined up along a street.
+Each house has a distinct colour and a single person living in it. 
+Each of these persons has a distinct nationality, kind of pet, car, and favourite drink.
+
+Now, one of the residents in that street has a cat named Brian, which wandered off a few days ago to have fun with his cat-friends.
+He's now on his way back but there is a problem:
+
+Unfortunately, Brian suffers from amnesia and so, cannot remember which house to return to. 
+If he goes to the wrong house, he may get beaten up by the other animals (who all hate cats, esp. the canary).
+If he doesn't make it back soon, he will starve. 
+Can you help Brian?
+
+
+Given Information:
+The Brit lives in a red house.
+The Greek keeps dogs as pets.
+The Chinese drinks tea.
+The Green house is next to, and on the left of the white house.
+The owner of the green house drinks coffee.
+The person who owns a Ford has a canary bird.
+The occupant of the yellow house owns a Landrover.
+The man living in the house that is in the middle of the row drinks milk.
+The Czech lives in the left-most house of the row.
+The man who owns a Toyota lives next to the house where they keep sheep.
+The man who keeps horses lives next to the man who owns a Landrover.
+The man who drives a Vauxhall drinks beer.
+The German has a Volvo.
+The Czech lives next to the blue house.
+The man who owns a Toyota has a neighbour who drinks water.
